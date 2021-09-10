@@ -5,7 +5,7 @@ h1{
     border-bottom: solid grey 1px;
     display: flex;
     flex-direction: row;
-    
+    text-decoration: none;
 }
 html{
     font-family: sans-serif;
